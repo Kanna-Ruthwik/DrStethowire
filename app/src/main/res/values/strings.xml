@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dr.Stethowire</string>
+    <string name="file_saved_as">File saved as: %s</string>
+</resources>
